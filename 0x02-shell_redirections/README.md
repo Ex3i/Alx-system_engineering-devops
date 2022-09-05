@@ -1,4 +1,1 @@
-My first redirection readme
-My first redirection readme
-My first redirection readme
-My first shell redirection readme
+prints "Hello World", followed by a new line to the standard output.
