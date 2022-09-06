@@ -7,3 +7,4 @@ Script in 0-hello_you
 Script in 0-alias file
 script that creates an alias
 script that prints hello user
+shell_variables_expansions
