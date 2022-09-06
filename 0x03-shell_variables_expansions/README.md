@@ -5,3 +5,4 @@ Script in 9-divide_and_rule file prints the result of POWER divided by DIVIDE. P
 Script in 0-alias file
 Script in 0-hello_you
 Script in 0-alias file
+script that creates an alias
